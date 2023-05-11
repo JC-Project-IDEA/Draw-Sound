@@ -87,7 +87,9 @@
 
 1. 聲音製作完成後，我們開始製作繪畫互動介面：利用導電媒體（如導電墨水、導電膠帶），創作出觸控式畫作。
 
-2. 依照電路連接手冊連接電子元件, 電路連接手冊PDF下載 Connection Manual：[connection manual.pdf](https://github.com/nixhehehe/testing1/files/10908029/connection.manual.pdf)
+2. 依照電路連接手冊連接電子元件, 電路連接手冊PDF下載 Connection Manual：
+[connection manual.pdf](https://github.com/JC-Project-IDEA/Draw-Sound/files/11448126/connection.manual.pdf)
+
 
 <img src="images/connection.jpg" alt="connection" >
 
@@ -98,7 +100,8 @@
 ## Lesson 3
 
 1. 組裝指南PDF下載 Assembly Guide：
-[revised.guide.lesson3.pdf](https://github.com/nixhehehe/testing1/files/10908037/revised.guide.lesson3.pdf)
+
+[revised.guide.lesson3.pdf](https://github.com/JC-Project-IDEA/Draw-Sound/files/11448121/revised.guide.lesson3.pdf)
 
 <img src="images/assembly1.jpg" alt="ass" >
 <img src="images/assembly2.jpg" alt="ass" >
@@ -168,15 +171,11 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
 
 
 7.把sd card 放進MP3板的SD卡卡位
-<p>
-<img src="images/sd card.jpg" alt="sdcard" width="400">
-</p>
+
 
 8. 把耳機或者喇叭（需要連接aux音頻線）連接到mp3板的3.5mm插口，然後觸摸你的畫作，就能夠聽到音樂了～
 (連接 3.5mm 線到 MP3 board)
-<p>
-<img src="images/audio port.jpg" alt="audio"  width="400">
-  </p>
+
 
 9. <a href="#常見問題集">遇到問題？點擊這裡查看解決辦法</a>
 
